@@ -1,11 +1,12 @@
 <!-- Profile Banner -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ayush+Chauhan!;Competitive+Programmer;Web+Developer;DSA+Enthusiast&center=true&width=500&height=50&font=Fira+Code&color=%23F75C7E&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ayush+!;Competitive+Programmer;Web+Developer;DSA+Enthusiast&center=true&width=500&height=50&font=Fira+Code&color=%23F75C7E&vCenter=true&size=22">
 </p>
 
 ---
 
-## 👋 Hi there! I'm Ayush Chauhan (@Grraviton)
+## 👋 Hi there! I'm Ayush
 
 🎓 Computer Science Enthusiast | 💻 Developer | 🛠️ Problem Solver
 
@@ -32,21 +33,7 @@
 - 🧠 Mastering DSA & System Design
 - 🌱 Exploring Open Source
 - 🤝 Collaborating on GitHub projects
-
 ---
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grraviton&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grraviton&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
----
-
 ### 📌 Coding Profiles
 
 - 🧠 [LeetCode](https://leetcode.com/ayushchauhan293)  
@@ -61,6 +48,35 @@
 - 📧 Email: ayushchauhan533@gmail.com
 
 ---
+
+---
+
+
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grraviton&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grraviton&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grraviton&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grraviton&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grraviton&theme=github_dark" />
+</div>
+<br>
+<div align="center">
+---
+### 🔥 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grraviton&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grraviton&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+---
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Grraviton&theme=darkhub&row=1&column=6" />
