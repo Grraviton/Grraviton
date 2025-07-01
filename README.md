@@ -1,4 +1,7 @@
 <!-- Profile Banner -->
+<p align="center">
+  <img src="240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="Banner GIF" width="20%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ayush+!;Competitive+Programmer;Web+Developer;DSA+Enthusiast&center=true&width=500&height=50&font=Fira+Code&color=%23F75C7E&vCenter=true&size=22">
