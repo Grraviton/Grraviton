@@ -52,7 +52,7 @@
 
 ---
 
----
+
 
 
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
@@ -67,15 +67,15 @@
 </div>
 <br>
 <div align="center">
+  
 ---
+  
 ### 🔥 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Grraviton&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grraviton&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
+
 
 ---
 
